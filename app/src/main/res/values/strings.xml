@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GenerateSound!</string>
+    <string name="app_name">KillerTones</string>
+    <string name="play">Play</string>
+    <string name="change_frequence">Change Frequency</string>
+    <string name="seek_start">10</string>
+    <string name="seek_end">20000</string>
+    <string name="space">" "</string>
+
+</resources>
